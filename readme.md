@@ -1,2 +1,2 @@
-Platform: https://jekyllrb.com/
+Platform: https://jekyllrb.com/  
 Startup: bundle exec jekyll serve
