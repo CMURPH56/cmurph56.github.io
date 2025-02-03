@@ -1,7 +1,8 @@
 ---
 layout: page
-title: About
+title: Cam Murphy
 permalink: /about/
 ---
 
-Senior Software Developer
+Senior Software Developer - Chicago, Illinois 
+
