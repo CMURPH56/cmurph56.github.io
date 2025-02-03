@@ -10,3 +10,4 @@ I am a software developer with over 5 years of experience. I have written progra
 
 I graduated from DePaul University with a degree in Computer Science and a minor in Physics. 
 
+In my free time I enjoy reading, running, and spending time outdoors.
