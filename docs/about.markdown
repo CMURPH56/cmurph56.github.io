@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-**Senior Software Developer - Chicago, Illinois** 
+**Software Developer / Cloud Engineer - Chicago, Illinois** 
 
 I am a software developer with over 5 years of experience. I have written programs in C#, JavaScript, and PowerShell. More recently I have worked in Azure, Cloudflare, and HAProxy. I am currently learning Rust.
 
