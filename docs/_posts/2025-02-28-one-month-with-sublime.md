@@ -1,5 +1,3 @@
-# One Month With Sublime
-
 This year, I decided to switch from Visual Studio Code to Sublime Text Editor, partially inspired by this [blog post](https://ohdoylerules.com/workflows/why-i-still-like-sublime-text-in-2025/).
 
 
