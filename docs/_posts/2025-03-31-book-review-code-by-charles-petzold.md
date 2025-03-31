@@ -6,11 +6,11 @@ I found _Code_ by Charles Petzold to be divided into three distinct sections. Th
 
 ### Review:
 
-I think the book does a great job of presenting the history of the concepts behind computers. The first section, in particular, is my favorite. It builds from simple codes (like Braille and binary) and basic circuits, then combines them with logic in a really succinct way. I even enjoyed learning about how QR codes encode information—plus, all the discrete math reminded me of college. However, everything led up to the second section, where the book lost me.
+I think the book does a great job of presenting the history of the concepts behind computers. The first section, in particular, is my favorite. It builds from simple codes (like Braille and binary) and basic circuits, then combines them with logic in a really succinct way. I even enjoyed learning about how QR codes encode information—plus, all the discrete math reminded me of college. However, everything led up to the second section, where the book lost me. 
 
-The second section is impressive. I tried to follow along as Petzold introduced increasing complexity and layers of encapsulation. However, I eventually resigned myself to skimming and picking up nuggets of knowledge where possible.
+I tried to follow along as Petzold introduced increasing complexity and layers of encapsulation. However, I eventually resigned myself to skimming and picking up nuggets of knowledge where possible.
 
-The third section was brief but interesting. After struggling to keep up with multiple levels of encapsulation, logic gates, and symbols, this section felt like a reprieve. It was easier to digest the higher-level concepts, such as how the operating system manages I/O devices and allows programs to run on a computer. The book ends on a hopeful note, discussing the invention of the Internet and Wikipedia. However, I would love to see a third edition that includes a chapter on Generative AI.
+After struggling to keep up with multiple levels of encapsulation, logic gates, and symbols, the third section felt like a reprieve. It was easier to digest the higher-level concepts, such as how the operating system manages I/O devices and allows programs to run on a computer. The book ends on a hopeful note, discussing the invention of the Internet and Wikipedia. However, I would love to see a third edition that includes a chapter on Generative AI.
 
 ### Recommendation:
 
