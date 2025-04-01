@@ -1,5 +1,3 @@
-## Book Review
-
 ### Summary:
 
 I found _Code_ by Charles Petzold to be divided into three distinct sections. The first section (chapters one through fourteen) focuses on the concepts and technologies that made the invention of the computer possible. The second section (chapters fifteen through twenty-four) explains how to build a basic computer. The third section (chapters twenty-five through twenty-eight) explores the technologies that developed around the computer, shaping it into the modern machine we know today.
