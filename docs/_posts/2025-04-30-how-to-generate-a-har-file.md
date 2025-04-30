@@ -23,4 +23,5 @@ A HAR file is a HTTP Archive format file. It captures all interactions that a we
 
 ### Security concerns with a HAR file
 
-A concern with HAR files is it will all requests your browser makes. This includes post requests that will contain username and non-encrypted passwords. So be careful when sending a HAR file to someone.
+A concern with HAR files is it will all include requests your browser makes. This includes POST requests that will contain username and non-encrypted passwords. So be careful when sending a HAR file to someone.
+**
