@@ -1,13 +1,13 @@
 I recently read *The Cuckoo's Egg* by Cliff Stoll in preparation for seeing him speak at [THOTCON](https://www.thotcon.org/)  this year. The book was incredible, and I would encourage anyone to read it. 
 
-The book follows Cliff's journey to catch a hacker he originally noticed through a small accounting error in the Berkeley computer system. From that error he tracked the hacker to Hanover Germany and kept a meticulous log of the journey. That log book is what I want to talk about.
+The book follows Cliff's journey to catch a hacker he originally noticed through a small accounting error in the Berkeley computer system. From that error he tracked the hacker to Hanover Germany and kept a meticulous log of the journey.
 
 
 > The astronomer's rule of thumb: if you don't write it down, it didn't happen.
 
 - Cliff Stoll ~ *The Cuckoo's Egg*
 
-The idea of keeping a log book stemmed from being an astronomer. I assume if you view a celestial event and don't properly record it, it's hard to remember convey the findings. This was very helpfully also in bringing the Hanover Hacker to justice.
+His idea of keeping a log book stemmed from being an astronomer. I assume if you view a celestial event and don't properly record it, it's hard to remember convey the findings. This was very helpfully also in bringing the Hanover Hacker to justice.
 
 Cliff would regularly reference his logbook throughout the story to draw patterns on the hackers activities. He would also send it off to the various agency, this gave validity to his claims of a hacker and *eventually* prompted them into action.
 
