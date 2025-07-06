@@ -30,6 +30,7 @@ github_username:  cmurph56
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
 
 
 
