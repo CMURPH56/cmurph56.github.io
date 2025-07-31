@@ -8,7 +8,7 @@ The portfolio site will be a static HTML and CSS web page, with the goal of maki
 ### The Swap
 It only required this [commit](https://github.com/CMURPH56/cmurph56.github.io/commit/54db54e31ad6f241d338d103a1bcc323b1d59e6f) and a small update to the [GitHub Pages](https://pages.github.com/) settings for my Jekyll site to work with the blogs.bakermckenzie.com domain. After updating the { blog } CNAME Record to point to the GitHub Pages repository, the domain swap was complete.
 
-### The Mess Aftewards
+### The Mess Afterwards
 Mission accomplished, the new domain for my blog is blog.cammurphy.com 🎉. However, that led to two issues. First, since I already had Google index wwww.cammurphy.com via the Google Search Console, there are going to be broken links. To mitigate this I had to update Google Search Console to remove www.cammurphy.com from the listing and index blog.cammurphy.com. The next problem is ww.cammurphy.com is not pointing anywhere helpful, I have to actually build out the personal / portfolio site.
 
 ### Next Steps
