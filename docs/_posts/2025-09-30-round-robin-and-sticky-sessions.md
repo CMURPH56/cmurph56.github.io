@@ -12,7 +12,7 @@ In round-robin load balancing, when a client makes a request the response will c
 
 The web is inherently stateless. In it's simplest form the client makes a request to the server, the server handles the request and responds to the client. The server keeps no memory of this interaction. This is great for sites like blog.cammurphy.com, because no user history is required. However, it does not work well for sites like Facebook that you need to login for. 
 
-A strategy to deal with this is, store information about the client on a servers memory *such as is the client authenticated?*. Subsequent requests will check the servers memory and see if it is an authenticated client and proceed in kind. However, memory is not shared among servers. If the next request is routed to a different server, the client who was logged in will show as logged out because they are not in this servers memory. Leading to frustration among users who have to constantly log back in. This is where sticky sessions come in.
+A strategy to deal with this is, store information about the client on a servers memory *such as is the client authenticated?*. Subsequent requests will check the servers memory see if it is an authenticated client and proceed in kind. However, memory is not shared among servers. If the next request is routed to a different server, the client who was logged in will show as logged out because they are not in this servers memory. Leading to frustration among users who have to constantly log back in. This is where sticky sessions come in.
 
 ### Sticky sessions
 
