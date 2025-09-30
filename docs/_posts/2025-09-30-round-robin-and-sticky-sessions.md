@@ -6,7 +6,7 @@ Load balancing is good for improving performance and availability. Spreading req
 
 ### Round-robin
 
-In round-robin load balancing, when a client makes a request the response will come from a server that is on a list of servers. The server that responds is chosen in sequential order.Even multiple requests from the same client could be routed to a different sever each time. This is great for evenly distributing traffic between a group of servers. However, an issue comes into play when you need state management.
+In round-robin load balancing, when a client makes a request the response will come from a server that is on a list of servers. The server that responds is chosen in sequential order. Even multiple requests from the same client could be routed to a different sever each time. This is great for evenly distributing traffic between a group of servers. However, an issue comes into play when you need state management.
 
 ### State
 
