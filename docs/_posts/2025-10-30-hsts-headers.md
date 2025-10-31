@@ -31,6 +31,11 @@ I was interested to see how and where the browser was storing this list that che
 
 ![Image]({{site.baseurl}}/assets/images/Hex_Of_My_Domain.png)
 
+
+
+## Why HSTS Headers
+It prevents bad actors on a public network from pretending to be your site and capturing requests over an insecure connection in a man in the middle attack.
+
 ### Thank You!
 
 Thanks to these posts that helped along me along with my HSTS journey.  
