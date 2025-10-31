@@ -12,7 +12,7 @@ After I wrote this post:
 ) stands for HTTP Strict-Transport-Security. When the browser initially requests a web page, the server will include in its response a header with the instructions "Hey browser remember this domain, and always load it over https and auto-upgrade http to https".
 
 ## Adding HSTS Headers to *.cammurphy.com
-I opted to add HSTS headers via a transform rule in Cloudflare.
+I chose to add HSTS headers via a transform rule in Cloudflare.
 
 ![Image]({{site.baseurl}}/assets/images/HSTS_Subdomains_Preload.png)
 
@@ -22,7 +22,7 @@ I opted to add HSTS headers via a transform rule in Cloudflare.
 Max-Age: The unit of measurement is seconds. I set this to the recommended two years.
 
 **Not Required**  
-IncludeSubdomains: I opted to add this, because I wanted www.cammurphy, blog.cammurphy, and etc to have the same security.  
+IncludeSubdomains: I added this, because I wanted www.cammurphy, blog.cammurphy, and etc to have the same security.  
   
 preload: With adding this option you allow the domain to be added to the preload list. The preload list is what browsers will check if it should load the site without even having to get the initial response from the server. You can submit your domain to be added to the list [here](https://hstspreload.org/). 
 
