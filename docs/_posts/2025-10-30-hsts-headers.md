@@ -27,7 +27,7 @@ IncludeSubdomains: I added this, because I wanted www.cammurphy, blog.cammurphy,
 preload: With adding this option you allow the domain to be added to the preload list. The preload list is what browsers will check if it should load the site without even having to get the initial response from the server. You can submit your domain to be added to the list [here](https://hstspreload.org/). 
 
 ## Seeing it for myself
-I was interested to see how and where the browser was storing this list that checks if the domain must be loaded over https. I use firefox, by typing about:config in your address bar you can see where the firefox profile folder is. In that folder there is a SiteSecurityServiceState.bin file that is filled with random HEX gibberish. I had to install a Hex editor, I chose GHex because this came up in results as someone having a [similar issue](https://sim642.eu/blog/2024/08/10/firefox-hsts-bypass/). After seaching, boom I found cammurphy.com.
+I was interested to see how and where the browser was storing this list that checks if the domain must be loaded over https. I use firefox, by typing about:profiles in your address bar you can see where the firefox profile folder is. In that folder there is a SiteSecurityServiceState.bin file that is filled with random HEX gibberish. I had to install a Hex editor, I chose GHex because this came up in results as someone having a [similar issue](https://sim642.eu/blog/2024/08/10/firefox-hsts-bypass/). After seaching, boom I found cammurphy.com.
 
 ![Image]({{site.baseurl}}/assets/images/Hex_Of_My_Domain.png)
 
