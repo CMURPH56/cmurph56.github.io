@@ -4,7 +4,7 @@ I know the browser stores cookies on your machine. I also know that websites can
 
 
 **Checking the Cookie Jar**  
-I wanted to see what this database of cookies looked like so I downloaded a [DB Client for SQLite](https://sqlitebrowser.org/). I tried just opening the cookies.sqlite file in SQLite Browser but ran into an error:
+I wanted to see what this database of cookies looked like, so I downloaded a [DB Client for SQLite](https://sqlitebrowser.org/). I tried just opening the cookies.sqlite file in SQLite Browser but ran into an error:
 
 ![Image]({{site.baseurl}}/assets/images/databaseError.png)
 
@@ -32,7 +32,7 @@ document.cookie = "cookie=welcomeToCamsWebsite; expires=" +  oneYear.toUTCString
   
 ![Image]({{site.baseurl}}/assets/images/cookiesSQLite.png)
 
-
+Overall, it is a pretty simple process to set and check a simple cookie. I think it is more interesting to see how you can use them and how to secure them. That will be in later posts.  
 
 References
 
