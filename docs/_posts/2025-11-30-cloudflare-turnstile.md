@@ -11,8 +11,8 @@ This is another free service from Cloudflare. I decided to add to my site, becau
 3. Click *Add Widget*
 4. Name your widget
 5. Add the Hostnames you would like to cover
-6. I chose Managed for Widget Mode
-7. Opting out of pre-clearence for now. I might tackle this in a future blog post. However, cf_clearence cookie made an appearance in my [last blog post](https://blog.cammurphy.com/2025/11/16/adding-cookies-to-the-cookie-jar.html) makes a re-appearence. 
+6. I chose *Managed* for Widget Mode
+7. Opting out of pre-clearence for now. I might tackle this in a future blog post. However, cf_clearence cookie I found in my [last blog post](https://blog.cammurphy.com/2025/11/16/adding-cookies-to-the-cookie-jar.html) makes a re-appearence. 
 8. Click *Create Widget* 
 
 
