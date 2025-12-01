@@ -35,4 +35,4 @@ I ended up adding the following HTML to my [website](https://www.cammurphy.com/)
 This worked! However, it did not really fit with the styling for my website. So, I changed the widget mode option to invisible.
 
 
-Now it keeps the flow of the site without the interruption of the visible widget. This is fine for my low traffic informational website.
+Now it keeps the flow of the site without the interruption of the visible widget. This is fine for my low traffic informational website.  
