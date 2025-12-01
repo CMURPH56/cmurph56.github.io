@@ -1,6 +1,6 @@
 ### Intro
 
-Here is another free service from Cloudflare I decided to add to my site, because why not!
+This is another free service from Cloudflare. I decided to add to my site, because why not!
 
 
 
