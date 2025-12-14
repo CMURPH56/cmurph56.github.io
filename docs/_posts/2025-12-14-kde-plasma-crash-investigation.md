@@ -101,7 +101,7 @@ Thread 1 (Thread 0x7f4761f41f00 (LWP 153331)):
 ```
 
 ### Ask AI
-Since, it is the year 2025 I asked AI. I want to see if it could quicker go through this entire stack trace to identify some information that could help! Note: I have written thoughts about [AI previously](https://blog.cammurphy.com/2025/08/31/Artificial-Intelligence.html). Here is what GPT-4.1 came up with:
+Since, it is the year 2025 I asked AI. I wanted to see if it could go through the entire stack trace and identify some information that could help! Note: I have written thoughts about [AI previously](https://blog.cammurphy.com/2025/08/31/Artificial-Intelligence.html). Here is what GPT-4.1 came up with:
 
 ![Image]({{site.baseurl}}/assets/images/AI_Debugging.png)
 
