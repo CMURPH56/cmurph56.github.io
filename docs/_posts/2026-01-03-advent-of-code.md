@@ -32,7 +32,7 @@ with open('input.txt', 'r') as file:
     for line in file:
         line = line.strip()
 ```
-### Breaking up the input
+### Breaking up the Input
 There are two things we care about on each line. 
 1. The direction the dial is turned
 2. How far it's turned  
