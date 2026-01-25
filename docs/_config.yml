@@ -20,7 +20,7 @@
 
 title: Cam's Tech Blog
 email: cammurphy195@gmail.com
-description: A blog about technology. # this means to ignore newlines until "baseurl:"
+description: A blog about technology.Built with Jekyll, hosted on Github Pages, and protected by Cloudflare. # this means to ignore newlines until "baseurl:"
   
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://blog.cammurphy.com" # the base hostname & protocol for your site, e.g. http://example.com
