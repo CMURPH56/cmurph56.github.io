@@ -27,7 +27,9 @@ url: "https://blog.cammurphy.com" # the base hostname & protocol for your site, 
 github_username:  cmurph56
 
 # Build settings
-theme: minimal-mistakes-jekyll
+# theme: minimal-mistakes-jekyll
+remote_theme: mmistakes/minimal-mistakes
+
 # logo: "/assets/images/cam_profile_photo.jpg"
 
 
