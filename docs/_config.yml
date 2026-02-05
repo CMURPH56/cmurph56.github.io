@@ -32,7 +32,7 @@ theme: minimal-mistakes-jekyll
 
 
 # MINIMAL MISTAKES CONFIGS
-minimal_mistakes_skin: "sunrise" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin: "neon" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 enable_copy_code_button: true
 search: true
 
@@ -69,6 +69,7 @@ defaults:
 plugins:
   - jekyll-feed
   - jekyll-sitemap
+  - jekyll-include-cache
 
 
 
