@@ -27,7 +27,45 @@ url: "https://blog.cammurphy.com" # the base hostname & protocol for your site, 
 github_username:  cmurph56
 
 # Build settings
-theme: minima
+theme: minimal-mistakes-jekyll
+# logo: "/assets/images/cam_profile_photo.jpg"
+
+
+# MINIMAL MISTAKES CONFIGS
+minimal_mistakes_skin: "sunrise" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+enable_copy_code_button: true
+search: true
+
+author_profile: true
+author:
+  name: "Cam Murphy"
+  avatar: "/assets/images/cam_profile_photo.jpg"
+  bio: "Software Developer / Cloud Engineer. I do a little bit of networking, security, and programming."
+  location: "Chicago, Illinois"
+  links:
+    - label: "Mastodon"
+      url: https://mastodon.social/@cmurphy56
+      icon: "fab fa-fw fa-mastodon"
+    - label: Github
+      url: https://github.com/CMURPH56
+      icon: "fab fa-fw fa-github"
+
+
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      read_time: false
+      show_date: true
+      author_profile: true
+
+
+
+
+
 plugins:
   - jekyll-feed
   - jekyll-sitemap

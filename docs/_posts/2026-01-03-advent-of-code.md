@@ -1,3 +1,9 @@
+---
+layout: single
+author_profile: true
+---
+
+
 # Intro
 One of my goals for 2026 is to sharpen my skills as a programmer. Since my job change, I have focused more on networking, security, and cloud infrastructure than programming. Luckily this resolution coincides with the release of [Advent of Code](https://adventofcode.com/)! So, I decided to attempt week one in Python.
 

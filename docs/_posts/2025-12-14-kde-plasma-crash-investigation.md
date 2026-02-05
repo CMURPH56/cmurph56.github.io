@@ -1,3 +1,9 @@
+---
+layout: single
+author_profile: true
+---
+
+
 ### Intro
 I have been running Fedora Linux with KDE as my chosen desktop environment on my personal computer for a while now. It has been a pretty smooth process. However, there has been one intermittent issue that has been bothering me.
 

@@ -1,3 +1,8 @@
+---
+layout: single
+author_profile: true
+---
+
 ### What is a HAR file?
 
 A HAR file is a HTTP Archive format file. It captures all interactions that a web browser makes with a site. It is in JSON format and the extension is **.har**. It can be used for debugging performance and other web application issues that a user might be experiencing.

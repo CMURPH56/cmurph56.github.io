@@ -3,6 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+author_profile: true
 ---
 
 <script src="https://challenges.cloudflare.com/turnstile/v0/api.js" async defer></script>

@@ -1,3 +1,8 @@
+---
+layout: single
+author_profile: true
+---
+
 ### What is Round-robin and what are sticky sessions?
 Round-robin and sticky sessions are a way to load balance servers. Load balancers spread client requests across multiple servers.
 

@@ -1,3 +1,7 @@
+---
+layout: single
+author_profile: true
+---
 
 In early 2023, I like others was first introduced to ChatGPT. After playing around with it for a bit, I wrote it off as a novelty/curiosity and did not predict the overwhelming force it has become today.
 

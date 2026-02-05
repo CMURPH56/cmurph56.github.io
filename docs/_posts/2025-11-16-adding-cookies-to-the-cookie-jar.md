@@ -1,3 +1,9 @@
+---
+layout: single
+author_profile: true
+---
+
+
 ### The Cookie Jar
 
 I know the browser stores cookies on your machine. I also know that websites can set and check them. However, I was not sure how and where they are stored. It turns out cookies for Firefox are stored in a cookies.sqlite database in the browser's profile folder. The profile folder can be found by typing about:profiles into the Firefox address bar. 

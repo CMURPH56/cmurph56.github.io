@@ -1,3 +1,9 @@
+---
+layout: single
+author_profile: true
+---
+
+
 I recently read *The Cuckoo's Egg* by Cliff Stoll in preparation for seeing him speak at [THOTCON](https://www.thotcon.org/)  this year. The book was incredible, and I would encourage anyone to read it. 
 
 The book follows Cliff's journey to catch a hacker he originally noticed through a small accounting error in the Berkeley computer system. From that error he tracked the hacker to Hanover Germany and kept a meticulous log of the journey.

@@ -1,3 +1,8 @@
+---
+layout: single
+author_profile: true
+---
+
 I recently decided to switch the domain of my blog from www.cammurphy.com to blog.cammurphy.com with plans to use www.cammurphy.com as a portfolio/personal landing site.
 
 ### The Portfolio Site

@@ -1,3 +1,9 @@
+---
+layout: single
+author_profile: true
+---
+
+
 #### Why?
 
 The backstory is I originally bought www.cammurphy.com from Google Domains. Then it was transferred to [Squarespace in 2023](https://www.theverge.com/2023/6/16/23763340/google-domains-sunset-sell-squarespace). At first I did not really mind because I was just sitting on the domain, but once I started using it again the features of Squarespace were not the best value for me. Squarespace seems more interested in being a domain registrar for people building and using the Squarespace service. I am more interested in building my own site and hosting it on GitHub Pages. What made more sense to me was using the [Cloudflare Registrar](https://www.cloudflare.com/products/registrar/), since I am already familiar with Cloudflare's other services.

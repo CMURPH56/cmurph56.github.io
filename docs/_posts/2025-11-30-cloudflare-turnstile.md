@@ -1,3 +1,9 @@
+---
+layout: single
+author_profile: true
+---
+
+
 ### Intro
 
 This is another free service from Cloudflare. I decided to add to my site, because why not!

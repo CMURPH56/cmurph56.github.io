@@ -1,3 +1,8 @@
+---
+layout: single
+author_profile: true
+---
+
 The purpose of this blog post is to learn about HSTS headers and how they work, with a side product of better securing my sites. 
 
 Before I wrote this post:  

@@ -1,3 +1,9 @@
+---
+layout: single
+author_profile: true
+---
+
+
 Staying informed in 2026 without being overwhelmed is a daunting task. I have tried many methods from RSS readers to fully going print media. However, I recently found an imperfect flow that let me read the news on my Kobo, and it is my favorite solution so far.
 
 ![Image]({{site.baseurl}}/assets/images/kobo_instapaper.jpg)
