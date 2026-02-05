@@ -1,4 +1,5 @@
 ---
+title: HSTS Headers 
 layout: single
 author_profile: true
 ---

@@ -1,4 +1,5 @@
 ---
+title: How to Generate a HAR File
 layout: single
 author_profile: true
 ---

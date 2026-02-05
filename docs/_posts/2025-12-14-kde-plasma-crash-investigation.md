@@ -1,4 +1,5 @@
 ---
+title: KDE Plasma Crash Investigation 
 layout: single
 author_profile: true
 ---

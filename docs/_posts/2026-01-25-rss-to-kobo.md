@@ -1,4 +1,5 @@
 ---
+title: "RSS to Kobo"
 layout: single
 author_profile: true
 ---
