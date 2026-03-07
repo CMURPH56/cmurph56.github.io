@@ -42,7 +42,7 @@ author_profile: true
 author:
   name: "Cam Murphy"
   avatar: "/assets/images/cam_profile_photo.jpg"
-  bio: "Cloud Engineer. I live in Chicago with my girlfriend and our cats. For work I do a little bit of networking, security, and programming."
+  bio: "Software Developer / Cloud Engineer. I live in Chicago with my girlfriend and our cats. For work I do a little bit of networking, security, and programming."
   location: "Chicago, Illinois"
   links:
     - label: "Mastodon"
@@ -51,7 +51,8 @@ author:
     - label: Github
       url: https://github.com/CMURPH56
       icon: "fab fa-fw fa-github"
-
+    - label: Resume
+      url: "/assets/resume/resume.pdf"
 
 
 defaults:
