@@ -45,13 +45,14 @@ A list of bugs that seem very relevant to the ones I had were listed. I kept my 
 
 As you can see there is a lot of bugs *similar* to what I was experiencing during that time period. I could not find an exact match, but maybe different symptoms of the same disease. I narrowed the duplicates down to a few *root* bugs:  
 
-https://bugs.kde.org/show_bug.cgi?id=511757  
-https://bugs.kde.org/show_bug.cgi?id=514098  
-https://bugs.kde.org/show_bug.cgi?id=506642  
-https://bugs.kde.org/show_bug.cgi?id=500044  
+[https://bugs.kde.org/show_bug.cgi?id=511757]  
+[https://bugs.kde.org/show_bug.cgi?id=514098]  
+[https://bugs.kde.org/show_bug.cgi?id=506642]  
+[https://bugs.kde.org/show_bug.cgi?id=500044]  
 
-Each had more than a few duplicate bugs tied to it.  I think https://bugs.kde.org/show_bug.cgi?id=511757 seems like the closest to the one I experienced. It also had the most duplicates tied to it. It says it was resolved in a special 6.5.6 release, which was released in March. However, I wonder if it was also fixed in 6.6 which was released in February. I am not sure how the release schedule works, maybe there is a release schedule for those who do not want to go to 6.6. So, for me I think the issue was finally fixed with the major 6.6 release in February.  
+Each had more than a few duplicate bugs tied to it.  I think [https://bugs.kde.org/show_bug.cgi?id=511757] seems like the closest to the one I experienced. It also had the most duplicates tied to it. It says it was resolved in a special 6.5.6 release, which was released in March. However, I wonder if it was also fixed in 6.6 which was released in February. I am not sure how the release schedule works, maybe there is a release schedule for those who do not want to go to 6.6.   
+
 
 ### Takeaways
-Did I find the commit that fixed my issue? No. Do I want to spend any more time looking? No. Did I learn something about KDE Plasma's bug system and release schedule? Yes! Next time I run into a bug I will be able to log and check the status of it. This is a better approach than trying to figure it out on my own or hoping for a release to fix it soon. As always thanks to all the KDE Plasma contributors and maintainers. 
+Did I find the commit that fixed my issue? No nor did I find a release note about it. Do I want to spend any more time looking? No, I feel satisfied with finding the bug logged and resolved. Did I learn something about KDE Plasma's bug system and release schedule? Yes! Next time I run into a bug I will be able to log and check the status of it and maybe find people logging similar bugs. This is a better approach than trying to figure it out on my own or hoping for a release to fix it soon. As always thanks to all the KDE Plasma contributors and maintainers. 
 
