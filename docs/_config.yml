@@ -42,7 +42,7 @@ author_profile: true
 author:
   name: "Cam Murphy"
   avatar: "/assets/images/cam_profile_photo.jpg"
-  bio: "Software Developer / Cloud Engineer. I live in Chicago with my girlfriend and our cats. For work I do a little bit of networking, security, and programming."
+  bio: "Senior Cloud Engineer. I live in Chicago with my girlfriend and our cats. For work I do a little bit of networking, security, and programming."
   location: "Chicago, Illinois"
   links:
     - label: "Mastodon"
