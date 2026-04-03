@@ -8,7 +8,7 @@ This post is following up on [my previous post about a KDE Plasmashell crash iss
 
 ### Looking at Releases
 
-When I first started noticing the issue, I was on version Plasma 6.5.4. When I realized for sure I was no longer seeing the issue, I was on Plasma 6.6.2. So there was one minor version, a major version, and two more minor version released. Also a side quest minor version on 6.5. 
+When I first started noticing the issue, I was on version Plasma 6.5.4. When I realized for sure I was no longer seeing the issue, I was on Plasma 6.6.2. So there was one minor version, a major version, and two more minor version released. Also, a side quest minor version on 6.5. 
 
 - [Minor Release 6.5.4 - 6.5.5](https://kde.org/announcements/changelogs/plasma/6/6.5.4-6.5.5/)
 - [Minor Release 6.5.6](https://kde.org/announcements/plasma/6/6.5.6/)
