@@ -10,7 +10,7 @@ I set up monitoring on my site, blog.cammurphy.com. I have two requirements: one
 I chose Pulsetic over a dozen or so freemium services found recommended in forums and blog posts. It meets my basic requirements with displaying percentage up-time and notification options when the site is down. It has few additional cool features and options. It also has a polished, professional, and intuitive user interface. 
 
 ### Pulsetic Setup
-They provide several different monitoring "types": website, keyword, port and ping monitoring. I chose the generic website monitoring option. The check would happen every 5 minutes and would wait 10 seconds for the site to response. I chose to get notified of a down via email. I do not need a text or call for this. 
+They provide several different monitoring "types": website, keyword, port and ping monitoring. I chose the generic website monitoring option. The check would happen every 5 minutes and would wait 10 seconds for the site to respond. I chose to get notified of a down via email. I do not need a text or call for this. 
 
 For additional options, I chose to include an SSL Cert check. I also asked it to check for the response text includes *Cam's Tech Blog*. I do not think that will change, and it will help see if my site is having issues rendering content. 
 
