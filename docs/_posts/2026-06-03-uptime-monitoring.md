@@ -40,7 +40,8 @@ The results were satisfactory. It took less than 5 minutes between me breaking D
 ### Qualms or Areas of Improvements
 This is not a sponsored post, and I do not want to be at risk of it sounding like it is one. One confusing part of the monitor setup process was deciding between Website Monitoring and Keyword Monitoring. Here are the descriptions of each:
 * Website Monitoring -> Check if a website loads and *remains* reachable. 
-* Keyword Monitoring -> Check if a website loads and *stays* reachable. 
+* Keyword Monitoring -> Check if a website loads and *stays* reachable.   
+
 That is the same description.  The Website Monitoring already has the option to check response text!! Just combine them and maybe add check for keywords as an option. One other small thing, it would be nice if there was a *select all* option for locations. 
 
 ### Conclusion
