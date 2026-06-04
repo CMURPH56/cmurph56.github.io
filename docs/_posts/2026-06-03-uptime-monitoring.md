@@ -7,7 +7,7 @@ author_profile: true
 I set up monitoring on my site, blog.cammurphy.com. I have two requirements: one - make sure my site has good up-time and two - be aware when it is down. I do not want to check my blog and see it down. I would have no idea when it went down or if it was a solid or wavering down. I also want to know if it is down in Europe or Asia, something not readily available from my browser.  For this, I am using a service called [Pulsetic](https://pulsetic.com/). 
 
 ### Why Pulsetic?
-I chose Pulsetic over a dozen or so freemium services found recommended in forums and blog posts. It meets my basic requirements with displaying percentage up-time and notification options when the site is down. It has few additional cool features and options. It also has a polished, professional, and intuitive user interface. 
+I chose Pulsetic over a dozen or so freemium services found recommended in forums and blog posts. It meets my basic requirements with displaying percentage up-time and notification options when the site is down. It has a few additional cool features and options, and it has a polished, professional, and intuitive user interface. 
 
 ### Pulsetic Setup
 They provide several different monitoring "types": website, keyword, port and ping monitoring. I chose the generic website monitoring option. The check would happen every 5 minutes and would wait 10 seconds for the site to respond. I chose to get notified of a down via email. I do not need a text or call for this. 
