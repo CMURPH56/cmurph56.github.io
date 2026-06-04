@@ -24,7 +24,7 @@ They also provide the options for creating your own status page, that will indic
 There are other paid features, that I did not pay much mind too. However, I did add domain registration monitoring on cammurphy.com.  I do not think Cloudflare would miss notifying me about a potential registration lapse but a second check is nice. 
 
 ### Yeah... but does it work?
-The feature list meets requirements.However, the service is worthless, if the product does not meet requirements. 
+The feature list meets requirements. However, the service is worthless, if it does not work. 
 
 The test:
 1. In the Cloudflare Dashboard  break DNS by setting the answer of the `blog` CNAME record to an empty target.
